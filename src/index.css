@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import "daisyui"; */
+
+:root {
+  background-color: #1e1e1e;
+  color: white;
+  font-family: "Product Sans", sans-serif;
+}
